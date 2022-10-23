@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class SolveQueen {
+public class SolveNQueen {
     public static boolean isSafe(int row, int col, char[][] board) {
         //horizontal
         for(int j=0; j<board.length; j++) {
