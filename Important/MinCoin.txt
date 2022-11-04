@@ -1,0 +1,12 @@
+https://practice.geeksforgeeks.org/problems/min-coin5549/1
+
+Given a list of coins of distinct denominations and total amount of money. Find the minimum number of coins required to make up that amount. Output -1 if that money cannot be made up using given coins.
+You may assume that there are infinite numbers of coins of each type.
+
+Example 1:
+
+Input: arr = [1, 2, 5], amount = 11
+Output: 3
+Explanation: 2*5 + 1 = 11. So taking 2 
+denominations of 5 and 1 denomination of  
+1, one can make 11.
